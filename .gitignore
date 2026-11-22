@@ -1,0 +1,7 @@
+# Build output
+/blink
+*.dSYM/
+*.o
+
+# macOS
+.DS_Store
